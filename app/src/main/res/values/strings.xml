@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies S1</string>
+    <string name="sort_label">Sort</string>
+
+    <string name="min"> Min</string>
+    <string name="out10">/10</string>
+
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="trailers_bt_text">Trailers</string>
+    <string name="review_bt_text">Reviews</string>
+
+    <!--MOVIE KEY STRINGS-->
+    <string name="movie">movie/</string>
+
+    <!-- Default Text-->
+    <string name="notAvailable">Information not Available</string>
+    <string name="no_favorites">You haven\'t add any Favorites, Start Searching!</string>
+    <string name="no_internet">Oops! You Are not Connected to Internet!</string>
+    <string name="film_added">This film has been added to your favorites</string>
+    <string name="film_removed">This film has been removed from your favorites</string>
+</resources>

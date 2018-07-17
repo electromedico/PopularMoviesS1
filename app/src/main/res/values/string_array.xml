@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="spinner_list_item_array">
+        <item>@string/favorites</item>
+        <item>@string/highest_rated</item>
+        <item>@string/most_popular</item>
+    </array>
+    <string name="favorites">Favorites</string>
+</resources>
